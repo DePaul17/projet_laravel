@@ -1,0 +1,52 @@
+#bg{
+    background-image: url("/image/bgwelcome.jpg");
+    background-size: cover;
+}
+
+#bgref{
+    background-image: url("/image/referentiel.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgformation{
+    background-image: url("/image/metier.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgcandidat_formation{
+    background-image: url("/image/candidat_formation.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgformation_referentiel{
+    background-image: url("/image/formation_referentiel.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgrepartition_sexe{
+    background-image: url("/image/repartition_sexe.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bggraphe_age{
+    background-image: url("/image/graphe_age.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgformulaire{
+    background-image: url("/image/formulaire.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#bgajouter{
+    background-image: url("/image/ajouter.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
